@@ -76,6 +76,10 @@ Currently Learning:
 <img src="https://streak-stats.demolab.com?user=vinhth05&theme=tokyonight&hide_border=true"/>
 
 </p>
+<picture>
+  
+  ![Galaga Game](https://raw.githubusercontent.com/vinhth05/vinhth05/output/galaga.svg)
+</picture>
 
 ---
 
