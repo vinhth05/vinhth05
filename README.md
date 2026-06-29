@@ -78,7 +78,7 @@ Currently Learning:
 </p>
 <picture>
   
-  ![Galaga Game](https://raw.githubusercontent.com/vinhth05/vinhth05/output/galaga.svg)
+  ![Galaga Game](https://raw.githubusercontent.com/vinhth05/vinhth05/output/galaga-contribution-graph.svg)
 </picture>
 
 ---
