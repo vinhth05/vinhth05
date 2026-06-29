@@ -1,13 +1,20 @@
 
-<div align="center">
 
-# 👋 Hi, I'm Tran Hien Vinh
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=240&section=header&text=Tran%20Hien%20Vinh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=55"/>
+</p>
 
-### ☕ Backend Developer | Java & Spring Boot Enthusiast
+<h1 align="center">
+Hi 👋 I'm Tran Hien Vinh
+</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=3BA4F2&center=true&vCenter=true&width=700&lines=Backend+Developer;Spring+Boot+Developer;Microservices+Learner;Clean+Code+Lover;Always+Learning+New+Things" />
+<h3 align="center">
+Backend Developer from Vietnam 🇻🇳
+</h3>
 
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Building+Scalable+Microservices;Clean+Architecture;RESTful+API+Developer;Always+Learning+New+Things"/>
+</p>
 
 ---
 
@@ -16,29 +23,26 @@
 ```yaml
 Name: Tran Hien Vinh
 
-Location: Vietnam 🇻🇳
+Role: Backend Developer
 
-Education:
-  - FPT University
+University: FPT University
 
-Role:
-  - Backend Developer
+Location: Vietnam
 
-Current Focus:
+Focus:
+  - Java
   - Spring Boot
   - Microservices
   - Docker
   - MySQL
-  - REST API
-
-Learning:
-  - Kubernetes
   - Redis
   - RabbitMQ
-  - CI/CD
 
-Fun Fact:
-  - Coffee + Music + Coding ☕
+Currently Learning:
+  - Kubernetes
+  - CI/CD
+  - Spring Cloud
+  - AWS
 ```
 
 ---
@@ -47,7 +51,7 @@ Fun Fact:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,github,maven,linux,idea,vscode,postman,html,css,js"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,github,maven,idea,linux,postman,redis,rabbitmq,kubernetes,aws"/>
 
 </p>
 
@@ -55,29 +59,31 @@ Fun Fact:
 
 # 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+</p>
 
 ---
 
-# 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
-
----
-
-# 🐍 Contribution Snake
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://streak-stats.demolab.com?user=vinhth05&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinhth05&theme=tokyo-night"/>
 
 </p>
 
@@ -87,163 +93,87 @@ Fun Fact:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vinhth05&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
 ---
 
-# 🎯 Featured Projects
+# 🐍 Contribution Snake
 
-## 🎬 Movie Booking System
+<p align="center">
 
-Spring Boot + JWT + MySQL + Docker
+<img src="https://raw.githubusercontent.com/vinhth05/output/github-contribution-grid-snake-dark.svg"/>
 
-A cinema booking platform based on Microservice Architecture.
-
----
-
-## 🍿 Booking Service
-
-Seat Reservation
-
-Booking
-
-Cancel Booking
-
-Idempotency
-
-JWT Authentication
+</p>
 
 ---
 
-## 🎥 Movie Service
 
-Movie APIs
 
-Showtime APIs
+# ⏱ Coding Activity
 
-Seat APIs
+<p align="center">
 
-Internal APIs
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=vinhth05&theme=tokyonight"/>
 
----
-
-## 🌳 BST Visualization
-
-Java Swing
-
-Data Structure
-
-Tree Traversal
-
-Animation
+</p>
 
 ---
 
-## 🐍 Snake Game
+# 🌍 Visitor Count
 
-Java
+<p align="center">
 
-Swing
+<img src="https://komarev.com/ghpvc/?username=vinhth05&style=for-the-badge&color=blueviolet"/>
 
-OOP
-
-Game Logic
-
----
-
-## 🎓 Student Management
-
-CRUD
-
-CSV
-
-Java OOP
-
-Validation
-
----
-
-# 📚 Currently Learning
-
-- Spring Cloud
-- Docker Compose
-- Kubernetes
-- Redis
-- RabbitMQ
-- Jenkins
-- GitHub Actions
+</p>
 
 ---
 
 # 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 
-<a href="mailto:your@email.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="https://github.com/vinhth05">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+
+
+<a href="mailto:tranvinh08912@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://www.facebook.com/tran.hien.vinh.262940/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://t.me/Vinhth246">
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://zalo.me/08855322110">
+<img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge"/>
 </a>
 
 </p>
 
 ---
 
-# ☕ Developer Dashboard
+# ☕ Quote
 
-```
-██████████████████████████████████
-
-Backend Status
-
-Java            ███████████████ 95%
-
-Spring Boot     ██████████████ 90%
-
-Docker          ████████████ 80%
-
-MySQL           █████████████ 90%
-
-REST API        ██████████████ 95%
-
-Microservices   ███████████ 75%
-
-Cloud           ████████ 60%
-
-██████████████████████████████████
-```
+> *"First solve the problem. Then write the code."* — John Johnson
 
 ---
 
-# 🎧 Coding Playlist
+<p align="center">
 
-🎵 Lofi
+⭐ Thanks for visiting my profile! ⭐
 
-🎵 Synthwave
+<br>
 
-🎵 Epic Coding Mix
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
 
----
-
-# ✨ Quote
-
-> "First, solve the problem. Then, write the code."
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
-
-⭐ Thanks for visiting my profile ⭐
-
-</div>
+</p>
 
