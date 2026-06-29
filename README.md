@@ -55,19 +55,7 @@ Currently Learning:
 
 </p>
 
----
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -91,49 +79,7 @@ Currently Learning:
 
 </p>
 
----
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vinhth05&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/vinhth05/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-
-
-# ⏱ Coding Activity
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=vinhth05&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🌍 Visitor Count
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=vinhth05&style=for-the-badge&color=blueviolet"/>
-
-</p>
-
----
 
 # 📫 Connect With Me
 
@@ -167,7 +113,7 @@ Currently Learning:
 
 # ☕ Quote
 
-> *"First solve the problem. Then write the code."* — John Johnson
+> *"Behind every great product is a backend you never notice"* 
 
 ---
 
