@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&customColorList=6,12,20,24&text=Tran%20Hien%20Vinh&fontColor=ffffff&fontSize=58&animation=twinkling&fontAlignY=36&desc=Building%20Reliable%20Backend%20Systems%20with%20Java%20%26%20Spring%20Boot&descAlignY=58"/>
 </p>
-
 <h1 align="center">
 Hi 👋 I'm Tran Hien Vinh
 </h1>
