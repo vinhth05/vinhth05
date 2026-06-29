@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 # 👋 Hi, I'm Tran Hien Vinh
@@ -246,4 +246,4 @@ Cloud           ████████ 60%
 ⭐ Thanks for visiting my profile ⭐
 
 </div>
-````
+
