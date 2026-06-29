@@ -3,13 +3,9 @@
 
 # 👋 Hi, I'm Tran Hien Vinh
 
-### Backend Engineer | Java Developer | Spring Boot Enthusiast
+### ☕ Backend Developer | Java & Spring Boot Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=E50914&center=true&vCenter=true&width=700&lines=Backend+Developer;Spring+Boot+%7C+Microservices;Building+Reliable+REST+APIs;Always+Learning+New+Technologies" />
-
----
-
-### 🎬 "Building scalable backend systems, one API at a time."
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=3BA4F2&center=true&vCenter=true&width=700&lines=Backend+Developer;Spring+Boot+Developer;Microservices+Learner;Clean+Code+Lover;Always+Learning+New+Things" />
 
 </div>
 
@@ -17,48 +13,33 @@
 
 # 🚀 About Me
 
-```java
-public class TranHienVinh {
+```yaml
+Name: Tran Hien Vinh
 
-    private final String location = "Vietnam 🇻🇳";
+Location: Vietnam 🇻🇳
 
-    private final String university = "FPT University";
+Education:
+  - FPT University
 
-    private final String role = "Backend Developer";
+Role:
+  - Backend Developer
 
-    private final String[] languages = {
-            "Java",
-            "SQL",
-            "JavaScript"
-    };
+Current Focus:
+  - Spring Boot
+  - Microservices
+  - Docker
+  - MySQL
+  - REST API
 
-    private final String[] backend = {
-            "Spring Boot",
-            "Spring Security",
-            "JWT",
-            "REST API",
-            "JPA/Hibernate"
-    };
+Learning:
+  - Kubernetes
+  - Redis
+  - RabbitMQ
+  - CI/CD
 
-    private final String[] database = {
-            "MySQL",
-            "SQL Server"
-    };
-
-    private final String[] tools = {
-            "Docker",
-            "Git",
-            "Maven",
-            "Postman",
-            "Swagger"
-    };
-
-    public String currentGoal() {
-        return "Become a Software Engineer specializing in Microservices & Cloud.";
-    }
-
-}
-````
+Fun Fact:
+  - Coffee + Music + Coding ☕
+```
 
 ---
 
@@ -66,7 +47,7 @@ public class TranHienVinh {
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,maven,idea,vscode,postman,linux,github" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,github,maven,linux,idea,vscode,postman,html,css,js"/>
 
 </p>
 
@@ -74,33 +55,21 @@ public class TranHienVinh {
 
 # 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
+![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
 
 ---
 
@@ -114,151 +83,167 @@ public class TranHienVinh {
 
 ---
 
-# 🎬 Featured Projects
+# 🏆 GitHub Trophy
 
-## 🎟️ Movie Booking System
+<p align="center">
 
-A complete cinema booking platform built with Spring Boot Microservices.
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&column=4"/>
 
-### Features
-
-* Authentication (JWT)
-* Movie Service
-* Booking Service
-* Seat Reservation
-* RESTful APIs
-* Swagger
-* Docker
-* MySQL
+</p>
 
 ---
 
-## 🎥 Booking Service
+# 🎯 Featured Projects
 
-Backend service responsible for
+## 🎬 Movie Booking System
 
-* Booking creation
-* Seat reservation
-* Idempotency
-* Booking cancellation
-* Event publishing
+Spring Boot + JWT + MySQL + Docker
+
+A cinema booking platform based on Microservice Architecture.
 
 ---
 
-## 🍿 Movie Service
+## 🍿 Booking Service
 
-Responsible for
+Seat Reservation
 
-* Movies
-* Showtimes
-* Seats
-* Search APIs
+Booking
+
+Cancel Booking
+
+Idempotency
+
+JWT Authentication
 
 ---
 
-## 🎓 Student Management
+## 🎥 Movie Service
 
-Java OOP project
+Movie APIs
 
-* CRUD
-* CSV
-* Validation
-* Report
+Showtime APIs
+
+Seat APIs
+
+Internal APIs
 
 ---
 
 ## 🌳 BST Visualization
 
-Desktop Java Swing application
+Java Swing
 
-* Insert
-* Delete
-* Search
-* DFS
-* BFS
-* Save / Load Tree
+Data Structure
+
+Tree Traversal
+
+Animation
 
 ---
 
 ## 🐍 Snake Game
 
-Java Desktop Game
+Java
 
-Features
+Swing
 
-* Obstacles
-* Apple Effects
-* Score
-* Increasing Speed
+OOP
+
+Game Logic
 
 ---
 
-# 🏆 Achievements
+## 🎓 Student Management
 
-✅ REST API Development
+CRUD
 
-✅ Spring Boot
+CSV
 
-✅ JWT Authentication
+Java OOP
 
-✅ Docker Deployment
-
-✅ Database Design
-
-✅ Object-Oriented Programming
+Validation
 
 ---
 
 # 📚 Currently Learning
 
-* Spring Cloud
-* Kubernetes
-* Redis
-* RabbitMQ
-* CI/CD
-* AWS
-
----
-
-# 🎯 2026 Goals
-
-* ✅ Master Spring Boot
-* ✅ Build Microservices Architecture
-* ✅ Learn Kubernetes
-* ✅ Deploy on AWS
-* ✅ Contribute to Open Source
+- Spring Cloud
+- Docker Compose
+- Kubernetes
+- Redis
+- RabbitMQ
+- Jenkins
+- GitHub Actions
 
 ---
 
 # 📫 Connect With Me
 
-<p align="center">
+<p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="mailto:your@email.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINK">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </p>
 
 ---
 
-# ☕ Quote
+# ☕ Developer Dashboard
 
-> First, solve the problem.
->
-> Then, write the code.
+```
+██████████████████████████████████
+
+Backend Status
+
+Java            ███████████████ 95%
+
+Spring Boot     ██████████████ 90%
+
+Docker          ████████████ 80%
+
+MySQL           █████████████ 90%
+
+REST API        ██████████████ 95%
+
+Microservices   ███████████ 75%
+
+Cloud           ████████ 60%
+
+██████████████████████████████████
+```
+
+---
+
+# 🎧 Coding Playlist
+
+🎵 Lofi
+
+🎵 Synthwave
+
+🎵 Epic Coding Mix
+
+---
+
+# ✨ Quote
+
+> "First, solve the problem. Then, write the code."
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=red"/>
+⭐ Thanks for visiting my profile ⭐
 
 </div>
-```
+````
