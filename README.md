@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=240&section=header&text=Tran%20Hien%20Vinh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7Cdesc&AlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&customColorList=6,12,20,24&text=Tran%20Hien%20Vinh&fontColor=ffffff&fontSize=58&animation=twinkling&fontAlignY=36&desc=Building%20Reliable%20Backend%20Systems%20with%20Java%20%26%20Spring%20Boot&descAlignY=58"/>
 </p>
 
 <h1 align="center">
@@ -117,13 +117,22 @@ Currently Learning:
 
 ---
 
+<h2 align="center">🎬 Thanks for visiting my profile!</h2>
+
+<p align="center">
+<i>Turning complex problems into simple, scalable solutions.</i>
+</p>
+
+<p align="center">
+Backend Engineer • Java • Spring Boot • Microservices
+</p>
+
 <p align="center">
 
-⭐ Thanks for visiting my profile! ⭐
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
+⭐ Feel free to explore my repositories and connect with me! ⭐
 
 </p>
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&section=footer"/>
+</p>
