@@ -49,7 +49,7 @@ Currently Learning:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,github,maven,idea,linux,postman,redis,rabbitmq,kubernetes,aws"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,github,maven,idea,linux,postman,redis,rabbitmq,"/>
 
 </p>
 
