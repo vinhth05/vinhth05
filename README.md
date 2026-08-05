@@ -16,34 +16,6 @@ Backend Developer from Vietnam 🇻🇳
 
 ---
 
-# 🚀 About Me
-
-```yaml
-Name: Tran Hien Vinh
-
-Role: Backend Developer
-
-University: FPT University
-
-Location: Vietnam
-
-Focus:
-  - Java
-  - Spring Boot
-  - Microservices
-  - Docker
-  - MySQL
-  - Redis
-  - RabbitMQ
-
-Currently Learning:
-  - Kubernetes
-  - CI/CD
-  - Spring Cloud
-  - AWS
-```
-
----
 
 # 💻 Tech Stack
 
