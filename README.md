@@ -1,32 +1,4 @@
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=240&section=header&text=Tran%20Hien%20Vinh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20Microservices&descAlignY=55"/>
-</p>
-<h1 align="center">
-Hi 👋 I'm Tran Hien Vinh
-</h1>
-
-<h3 align="center">
-Backend Developer from Vietnam 🇻🇳
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Building+Scalable+Microservices;Clean+Architecture;RESTful+API+Developer;Always+Learning+New+Things"/>
-</p>
-
----
-
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,github,maven,idea,linux,postman,redis,rabbitmq,"/>
-
-</p>
-
-
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -38,16 +10,6 @@ Backend Developer from Vietnam 🇻🇳
   
   ![Galaga Game](https://raw.githubusercontent.com/vinhth05/vinhth05/output/galaga-contribution-graph.svg)
 </picture>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinhth05&theme=tokyo-night"/>
-
-</p>
 
 
 
@@ -79,30 +41,5 @@ Backend Developer from Vietnam 🇻🇳
 
 </p>
 
----
 
-# ☕ Quote
 
-> *"Behind every great product is a backend you never notice"* 
-
----
-
-<h2 align="center">🎬 Thanks for visiting my profile!</h2>
-
-<p align="center">
-<i>Turning complex problems into simple, scalable solutions.</i>
-</p>
-
-<p align="center">
-Backend Engineer • Java • Spring Boot • Microservices
-</p>
-
-<p align="center">
-
-⭐ Feel free to explore my repositories and connect with me! ⭐
-
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&section=footer"/>
-</p>
