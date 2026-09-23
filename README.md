@@ -6,10 +6,7 @@
 <a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vinhth05&theme=gruvbox-duo&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
 
 </p>
-<picture>
-  
-  ![Galaga Game](https://raw.githubusercontent.com/vinhth05/vinhth05/output/galaga-contribution-graph.svg)
-</picture>
+
 
 
 
