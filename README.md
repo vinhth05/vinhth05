@@ -20,11 +20,11 @@
 
 
 
-<a href="mailto:tranvinh08912@gmail.com">
+<a href="mailto:vinhth.dev@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/tran.hien.vinh.262940/">
+<a href="https://www.facebook.com/hienvinh246/">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
